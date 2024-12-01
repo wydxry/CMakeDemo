@@ -10,4 +10,4 @@ cd Release
 MyProject.exe
 ```
 
-![image-20241201171929370](C:\code\C++\demo1\assets\image-20241201171929370.png)
+![image-20241201171929370](assets\image-20241201171929370.png)
