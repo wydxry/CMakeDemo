@@ -10,4 +10,4 @@ cd Release
 MyProject.exe
 ```
 
-![image-20241201171929370](.\assets\image-20241201171929370.png)
+![image-20241201171929370](https://github.com/wydxry/CMakeDemo/blob/main/demo1/assets/image-20241201171929370.png)
