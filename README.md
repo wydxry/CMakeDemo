@@ -8,3 +8,6 @@
 
 ## demo3
 [测试TensorRT](https://github.com/wydxry/CMakeDemo/tree/main/demo3)
+
+## demo4
+[测试ONNX](https://github.com/wydxry/CMakeDemo/tree/main/demo4)
